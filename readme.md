@@ -38,6 +38,7 @@ To enable the debug mode, add -debug to the command, and the command should be l
 ```bash
 lime test html5 -debug
 ```
+Make sure to have [Visual Studio](https://ualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) installed with C++ addons installed for it to work if you get errors but not code errors.
 
 # Logging off
 See you there!
